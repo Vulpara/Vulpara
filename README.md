@@ -1,7 +1,6 @@
 # 🌸 Vulpara | 魅樱缭心弦 
 
 <p align="center">
-  <img src="https://your-image-link-here.jpg" width="200" style="border-radius: 50%;" />
   <br>
   <i>“逻辑为骨，魅影为魂。在 0 与 1 的荒原里，拨动一曲缭绕的弦音。”</i>
 </p>
@@ -38,18 +37,11 @@
 
 ---
 
-### 🌹 拾花而行 | Statistics
-
-| ![Vulpara's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=rose_pine) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=rose_pine) |
-| :--- | :--- |
-
----
-
 ### 💌 幽径寻踪 | Connect with Me
 
 > “如果你也听到了那阵细碎的狐步声，欢迎通过 Issues 或邮件与我交换梦境。”
 
-- **个人主页**: [Mistvillion | 北城烟雨阁](http://sparklerain.top)
+- **个人主页**: [Vulpara | 魅樱缭心弦](https://github.com/Vulpara)
 - **日常随笔**: 偶尔在代码注释里留下几句不安分的诗。
 
 ---
@@ -57,18 +49,3 @@
 <p align="right">
   <i>Written with ✨ and 🦊 by Vulpara</i>
 </p>
-
-<!--
-**Vulpara/Vulpara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
