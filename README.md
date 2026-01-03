@@ -41,7 +41,7 @@
 
 > “如果你也听到了那阵细碎的狐步声，欢迎通过 Issues 或邮件与我交换梦境。”
 
-- **个人主页**: [Vulpara | 魅樱缭心弦](https://github.com/Vulpara)
+- **个人主页**: [Vulpara | 魅樱缭心弦](https://vulpara.github.io/)
 - **日常随笔**: 偶尔在代码注释里留下几句不安分的诗。
 
 ---
